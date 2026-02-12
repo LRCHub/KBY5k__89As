@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Impossible",
+  "base_artist": "RIIZE",
+  "createdAt": "2026-02-12T08:06:03.179309Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Impossible Germany",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/01_Impossible_Germany_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Impossible",
+      "artist": "Joe Nichols",
+      "has_synced": true,
+      "path": "select/02_The_Impossible_Joe_Nichols.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Impossible (Album Version)",
+      "artist": "Joe Nichols",
+      "has_synced": true,
+      "path": "select/03_The_Impossible_(Album_Version)_Joe_Nichols.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Impossible",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/04_The_Impossible_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Impossible",
+      "artist": "Monster Movie",
+      "has_synced": false,
+      "path": "select/05_The_Impossible_Monster_Movie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Impossible",
+      "artist": "MOTHXR",
+      "has_synced": false,
+      "path": "select/06_Impossible_MOTHXR.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Impossible",
+      "artist": "Röyksopp feat. Alison Goldfrapp",
+      "has_synced": true,
+      "path": "select/07_Impossible_Röyksopp_feat._Alison_Goldfrapp.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Impossible",
+      "artist": "Röyksopp & Alison Goldfrapp",
+      "has_synced": true,
+      "path": "select/08_Impossible_Röyksopp_&_Alison_Goldfrapp.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Impossible",
+      "artist": "Röyksopp",
+      "has_synced": true,
+      "path": "select/09_Impossible_Röyksopp.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Impossible",
+      "artist": "Captain Hollywood Project",
+      "has_synced": false,
+      "path": "select/10_Impossible_Captain_Hollywood_Project.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Expedition Impossible",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/11_Expedition_Impossible_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Expedition Impossible",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/12_Expedition_Impossible_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Expedition Impossible - Live at Koningin Elisabethzaal 2012",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/13_Expedition_Impossible_-_Live_at_Koningin_Elisabethzaal_2012_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Expedition Impossible - Orchestra Version",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/14_Expedition_Impossible_-_Orchestra_Version_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Expedition Impossible (Orchestra Version)",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/15_Expedition_Impossible_(Orchestra_Version)_Hooverphonic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Impossible",
+      "artist": "RIIZE",
+      "has_synced": false,
+      "path": "select/pl_01_Impossible_RIIZE.txt"
+    }
+  ]
+}
