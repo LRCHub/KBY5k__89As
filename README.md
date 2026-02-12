@@ -1,0 +1,68 @@
+# RIIZE – Impossible
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Gimme that beat
+Got me flyin'
+in my dreams right now
+모두가 불가능해
+안 된다고 하지 왜
+Can't lose
+can't lose
+can't lose
+It's impossible
+2 AM 2 AM 꿈속이 익숙한
+잠든 까만 밤에도
+I know you I know you
+You know me 너 없인
+모든 게 Impossible
+한 걸음 걸음 나의 꿈에
+Movin' on movin' on
+가까워지는 너의 맘이
+To be strong to be strong
+Got me flyin'
+in my dreams right now
+모두가 불가능해
+안 된다고 하지 왜
+Can't lose
+can't lose
+can't lose
+It's impossible
+Got me dyin'
+to realize it now
+모두 너로 가능해
+넌 날 완성하게 해
+Without you
+without you
+without you
+It's impossible
+Just one more just one more
+열어줘 Let me know
+난 끝내 너의 맘을 Touchin'
+하나뿐인 나의 꿈이
+저 멀리 너에게 닿아
+크게 번져가는 Beatin'
+멈추지 않아 이미 우린
+Movin' on movin' on
+익숙해진 함께란 말이
+To be strong to be strong
+Got me flyin'
+in my dreams right now
+모두가 불가능해
+안 된다고 하지 왜
+Can't lose
+can't lose
+can't lose
+It's impossible
+Got me dyin'
+to realize it now
+모두 너로 가능해
+넌 날 완성하게 해
+Without you
+without you
+without you
+It's impossible
+Gimme that beat
+It's impossible
+```
